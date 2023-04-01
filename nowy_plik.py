@@ -1,6 +1,1 @@
-fgd
-fhygf
-
-bjh
-df
-print(lala)
+print("main")
